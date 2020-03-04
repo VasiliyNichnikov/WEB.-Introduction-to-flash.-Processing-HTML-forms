@@ -1,0 +1,28 @@
+{
+  "team": [
+    {
+      "name": "Антон",
+      "username": "Мельник",
+      "photo": "https://sanhangre.net/image/cache/data/dochoichobe/Tomica/ailens/do-choi-nguoi-ngoai-hanh-tinh-ailens-xanh-1000x1000.jpg",
+      "specialty": "инженер-исследователь, пилот, строитель"
+    },
+    {
+      "name": "Егор",
+      "username": "Богородский",
+      "photo": "https://us.123rf.com/450wm/albertzig/albertzig1210/albertzig121001060/15732042-cartoon-monster.jpg?ver=6",
+      "specialty": "экзобиолог, врач, инженер по терраформированию"
+    },
+    {
+      "name": "Ваня",
+      "username": "Бохолдин",
+      "photo": "https://image.tmdb.org/t/p/original/dKEm2pjq99nZSZpTRPIxd2XApIs.jpg",
+      "specialty": "климатолог, специалист по радиационной защите, астрогеолог"
+    },
+    {
+      "name": "Тыник",
+      "username": "Шмер",
+      "photo": "https://bookshelfbattle.files.wordpress.com/2015/05/shutterstock_120849055.jpg",
+      "specialty": "гляциолог, инженер жизнеобеспечения, метеоролог"
+    }
+  ]
+}
